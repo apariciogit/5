@@ -2,7 +2,11 @@ body
 {
     font-family: "courier";
     text-align: center;
+<<<<<<< HEAD
     color: rgb(43, 36, 136);
+=======
+    color: rgb(82, 206, 82);
+>>>>>>> cabecera2
     font-size: 16px;
     margin: 0;
     padding: 0;
